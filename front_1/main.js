@@ -1,3 +1,5 @@
+// EU ESQUECI QUE TINHA UM CÓDIGO JS AQUI PARA OUTRO PROJETO QUE NÃO CONTINUEI (AKA ABANDONADO) //
+
 // Create a "close" button and append it to each list item //
 
 var myNodelist = document.getElementsByTagName('li');
